@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Uptred" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VimeoAccessCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="YouTubeRefresh" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="VimeoAPIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEFAULT</Value>
+    </Setting>
+    <Setting Name="VimeoAPISecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEFAULT</Value>
+    </Setting>
+    <Setting Name="VimeoRedirectURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEFAULT</Value>
+    </Setting>
+    <Setting Name="YouTubeAPIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEFAULT</Value>
+    </Setting>
+    <Setting Name="YouTubeAPISecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEFAULT</Value>
+    </Setting>
+    <Setting Name="YouTubeRedirectURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEFAULT</Value>
+    </Setting>
+    <Setting Name="InstagramAPIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEFAULT</Value>
+    </Setting>
+    <Setting Name="InstagramAPISecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEFAULT</Value>
+    </Setting>
+    <Setting Name="InstagramRedirectURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DEFAULT</Value>
+    </Setting>
+    <Setting Name="InstagramAccessCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
